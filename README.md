@@ -1,2 +1,2 @@
 # Calendar
-This is a simple calendar app -> https://bit.ly/3mCL0t3
+This is a simple calendar app -> shorturl.at/desM6
